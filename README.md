@@ -1,1 +1,1 @@
-My First learning project I completeed from youtube video.
+Completed as my first learning project by following a YouTube tutorial.
